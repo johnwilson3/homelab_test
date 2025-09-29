@@ -4,7 +4,7 @@
     end
 
     subgraph "Cloudflare (Proxy & DNS)"
-        B(yourname.tech)
+        B(johnwilson.tech)
     end
 
     subgraph "Home Network (Ubiquiti)"
